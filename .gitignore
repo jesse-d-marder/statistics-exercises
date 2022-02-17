@@ -2,3 +2,5 @@ more_exercises/
 lessons/
 Exam/
 env.py
+lesson.ipynb
+*.csv
